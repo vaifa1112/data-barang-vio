@@ -1,0 +1,12 @@
+Cara Menjalankan ETL Pipeline
+1. Buka terminal pada folder project.
+2. Jalankan:
+python main.py
+
+Cara Menjalankan Unit Test
+1. Jalankan:
+pytest tests/
+
+Cara Menjalankan Test Coverage
+1. Jalankan:
+pytest --cov=utils tests/
